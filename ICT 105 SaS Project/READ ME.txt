@@ -1,0 +1,6 @@
+Running the Application
+
+1. First, run setup_database.py to create and initialize the database tables.
+2. Run user_management.py to set up the hashed password (only the first time).
+3. Use Main_appSaS.py to run the main application (the GUI).
+4. Optional, use test_to_add_student.py to add students and test console-based features.

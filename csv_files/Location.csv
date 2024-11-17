@@ -1,0 +1,19 @@
+﻿RoomNumber,Capacity,FloorNumber,Location
+101,15,Ground Floor,Building A
+102,15,Ground Floor,Building A
+103,20,Ground Floor,Building A
+104,20,Ground Floor,Building A
+105,25,Ground Floor,Building A
+106,25,Ground Floor,Building A
+107,30,Ground Floor,Building A
+108,30,Ground Floor,Building A
+109,30,Ground Floor,Building A
+110,10,Ground Floor,Building A
+201,10,1st Floor,Building A
+202,10,2nd Floor,Building A
+203,25,3rd Floor,Building A
+204,25,4th Floor,Building A
+205,30,5th Floor,Building A
+206,40,6th Floor,Building A
+207,40,7th Floor,Building A
+208,40,8th Floor,Building A
